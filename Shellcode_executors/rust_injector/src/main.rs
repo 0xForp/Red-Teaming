@@ -9,7 +9,6 @@ use std::process;
 use std::mem;
 
 
-// Ensure the encrypt_decrypt function is correctly defined in this file
 fn encrypt_decrypt(data: &[u8], key: &[u8]) -> Vec<u8> {
     data.iter()
         .enumerate()
