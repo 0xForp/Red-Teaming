@@ -4,16 +4,12 @@ class Encryptor
 {
     static void Main()
     {
-        // Original shellcode goes here
         byte[] shellcode = new byte[] {};
 
-        // XOR encryption key
         byte[] key = new byte[] { 0x1A, 0x87, 0x52, 0xFC, 0x78, 0xD1, 0xFE, 0x16, 0xD6, 0x87, 0xC7, 0x83, 0xF0, 0x11, 0x5E, 0xAC };
 
-        // Encrypt 
         byte[] encryptedShellcode = EncryptDecrypt(shellcode, key);
 
-        // Output the encrypted shellcode in C# format
         Console.Write("byte[] encryptedShellcode = new byte[] { ");
         for (int i = 0; i < encryptedShellcode.Length; i++)
         {
