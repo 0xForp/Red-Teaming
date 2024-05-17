@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KH1ezZFq7DagFu5MqoILBUThd3YTlGpUMnkDTp/kvvO3XMbKDY1hzTPtZ1PXZIjJdAA+9tJj7mi9v7sD2BjOLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carbanak\\Desktop\\code\\queuepac\\queuepac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carbanak\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\carbanak\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.0\\microsoft.netcore.app.runtime.win-x64.8.0.0.nupkg.sha512",
+    "C:\\Users\\carbanak\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.0.nupkg.sha512",
+    "C:\\Users\\carbanak\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.0\\microsoft.aspnetcore.app.runtime.win-x64.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

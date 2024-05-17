@@ -1,0 +1,14 @@
+C:\Users\carbanak\Desktop\code\queuepac\bin\Release\net8.0\queuepac.exe
+C:\Users\carbanak\Desktop\code\queuepac\bin\Release\net8.0\queuepac.deps.json
+C:\Users\carbanak\Desktop\code\queuepac\bin\Release\net8.0\queuepac.runtimeconfig.json
+C:\Users\carbanak\Desktop\code\queuepac\bin\Release\net8.0\queuepac.dll
+C:\Users\carbanak\Desktop\code\queuepac\bin\Release\net8.0\queuepac.pdb
+C:\Users\carbanak\Desktop\code\queuepac\obj\Release\net8.0\queuepac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carbanak\Desktop\code\queuepac\obj\Release\net8.0\queuepac.AssemblyInfoInputs.cache
+C:\Users\carbanak\Desktop\code\queuepac\obj\Release\net8.0\queuepac.AssemblyInfo.cs
+C:\Users\carbanak\Desktop\code\queuepac\obj\Release\net8.0\queuepac.csproj.CoreCompileInputs.cache
+C:\Users\carbanak\Desktop\code\queuepac\obj\Release\net8.0\queuepac.dll
+C:\Users\carbanak\Desktop\code\queuepac\obj\Release\net8.0\refint\queuepac.dll
+C:\Users\carbanak\Desktop\code\queuepac\obj\Release\net8.0\queuepac.pdb
+C:\Users\carbanak\Desktop\code\queuepac\obj\Release\net8.0\queuepac.genruntimeconfig.cache
+C:\Users\carbanak\Desktop\code\queuepac\obj\Release\net8.0\ref\queuepac.dll

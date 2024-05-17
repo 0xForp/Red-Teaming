@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "queuepac", "queuepac.csproj", "{3FE4EDFD-D41A-4DE6-BFCF-2C0A9B11C5BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FE4EDFD-D41A-4DE6-BFCF-2C0A9B11C5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE4EDFD-D41A-4DE6-BFCF-2C0A9B11C5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE4EDFD-D41A-4DE6-BFCF-2C0A9B11C5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE4EDFD-D41A-4DE6-BFCF-2C0A9B11C5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16EFD445-5D51-4906-98C2-B50465643A28}
+	EndGlobalSection
+EndGlobal
