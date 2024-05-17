@@ -4,5 +4,4 @@ The current output is C# format (C is on the todo list)
 
 Currently available:
 - XOR
-- AES
-- RC4
+
